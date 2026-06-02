@@ -20,7 +20,7 @@ To run the game, use the command line interface. The script takes three argument
 ### Example Usage:
 To run the game with MiniMax, where 'X' goes first and it's a human vs. computer game:
 ```bash
-python Pranav_Kuchibhotla_CS480_P01_A20511026.py 1 X 1
+python Abdul_Mueed_CS480_P01_A20511026.py 1 X 1
 ```
 
-  Copyright (c) 2025 Pranav Kuchibhotla
+
